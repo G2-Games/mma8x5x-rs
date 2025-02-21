@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 <!-- next-header -->
 ## [Unreleased] - ReleaseDate
 - Moved to [embedded-hal](https://github.com/rust-embedded/embedded-hal) v1.0.
+- Fixed issues with generic i2c arguments
 
 ## [0.1.1] - 2022-09-15
 
